@@ -1,0 +1,1 @@
+The code defines a function `calculate_discount` that applies a discount if it’s 20% or higher; otherwise, it returns the original price. The `main` function prompts the user to enter the price and discount percentage, computes the final price using `calculate_discount`, and prints the result. It also handles invalid input by catching `ValueError`.
